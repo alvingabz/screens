@@ -1,0 +1,2 @@
+$ npm install -g cordova ionic
+$ ionic start [appName] creator:72b42992f3eb
